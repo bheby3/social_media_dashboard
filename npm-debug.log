@@ -9,8 +9,8 @@
 6 silly lifecycle nuvi_project@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle nuvi_project@1.0.0~start: nuvi_project@1.0.0
 8 verbose lifecycle nuvi_project@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle nuvi_project@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/brandonhebbert/nuvi_test/Nuvi/node_modules/.bin:/usr/local/Cellar/node/6.3.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
-10 verbose lifecycle nuvi_project@1.0.0~start: CWD: /Users/brandonhebbert/nuvi_test/Nuvi
+9 verbose lifecycle nuvi_project@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/brandonhebbert/testNuvi/Nuvi/node_modules/.bin:/usr/local/Cellar/node/6.3.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+10 verbose lifecycle nuvi_project@1.0.0~start: CWD: /Users/brandonhebbert/testNuvi/Nuvi
 11 silly lifecycle nuvi_project@1.0.0~start: Args: [ '-c', 'node server.js' ]
 12 silly lifecycle nuvi_project@1.0.0~start: Returned: code: 1  signal: null
 13 info lifecycle nuvi_project@1.0.0~start: Failed to exec start script
@@ -25,7 +25,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:852:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:215:5)
 15 verbose pkgid nuvi_project@1.0.0
-16 verbose cwd /Users/brandonhebbert/nuvi_test/Nuvi
+16 verbose cwd /Users/brandonhebbert/testNuvi/Nuvi
 17 error Darwin 15.6.0
 18 error argv "/usr/local/Cellar/node/6.3.1/bin/node" "/usr/local/bin/npm" "start"
 19 error node v6.3.1
