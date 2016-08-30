@@ -569,12 +569,12 @@ html body {
 @media all and (max-width: 1289px) {
   div {
     #modal_overlay {
-      height: 170%;
+      height: 190%;
     }
   }
   div {
     #modal {
-      bottom: -70%;
+      bottom: -35%;
     }
   }
 }
@@ -586,7 +586,7 @@ html body {
   }
   div {
     #modal {
-      bottom: -70%;
+      bottom: -35%;
     }
   }
 }
@@ -602,8 +602,8 @@ html body {
 #modal {
   border-radius: 25px;
   position: absolute;
-  right: calc(50% - 255px);
-  bottom: 0%;
+  right: calc(50% - 250px);
+  bottom: 27%;
   width: 500px;
   z-index: 9999;
   .modal_actor_container {
